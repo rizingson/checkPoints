@@ -1,0 +1,5 @@
+SERVICE=gmail
+USERMAIL=XXXXXXXXXX@gmail.com
+PASSWORDEMAIL=XXXXXXXXXXXXX
+TO=XXXXXXXXXX@gmail.com
+MONGOURI=mongodb+srv://[mongodburl]
